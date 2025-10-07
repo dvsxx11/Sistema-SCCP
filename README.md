@@ -32,6 +32,7 @@ O sistema permite o **cadastro, listagem, edição e exclusão (CRUD)** de jogos
 | ![Jogos](https://drive.google.com/file/d/1n1tdAPqy5oWW4XDBn82YpaR96_eohKyD/view?usp=sharing) | Cadastro de Jogos |
 | ![Torcedores](https://drive.google.com/file/d/1JC_o-kNdriZ1LXEHQNFJ6u9nP51cIyJE/view?usp=sharing) | Cadastro de torcedores |
 | ![Inscrições](https://drive.google.com/file/d/1Fj9QeFbnMFgkV-v-E-4S95qH553lCyyE/view?usp=sharing) | Gerenciamento de inscrições |
+![Jogos](https://github.com/user-attachments/assets/2db148c8-e574-49b6-a93b-27861bd184ce)
 
 ---
 
