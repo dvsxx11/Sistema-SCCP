@@ -1,6 +1,6 @@
 ## 📌 Descrição
-O **Sistema-SCCP** é um aplicativo web desenvolvido com **Lovable** e **Supabase** para gerenciar **torcedores e jogos do Corinthians**.  
-O sistema permite o **cadastro, listagem, edição e exclusão (CRUD)** de jogos e torcedores, além do **gerenciamento de inscrições** e da **contagem de torcedores por jogo**.
+O **Sistema-SCCP** é uma aplicação web desenvolvido com **Lovable** e **Supabase** para gerenciar **torcedores e jogos do Corinthians**.  
+O sistema permite o **cadastro, listagem, edição e exclusão ** de jogos e torcedores, além do **gerenciamento de inscrições** e da **contagem de torcedores por jogo**.
 
 ---
 
