@@ -42,8 +42,8 @@ O sistema permite o **cadastro, listagem, edição e exclusão ** de jogos e tor
 ### Tabelas
 | Tabelas | Colunas |
 |------|------------|
-| ![jogos](![Jogos](https://github.com/user-attachments/assets/39d5ef6f-2621-4f16-bb6e-fa1a3fc62f2a)) | **jogos**: id_jogo, adversario. data_jogo, local | 
-| ![torcedores](![Torcedores](https://github.com/user-attachments/assets/e60ad3e6-1f45-4c47-9e28-25d8fbacbcd7) ) | **torcedores**: id_torcedor, nome, email, setor, jogo_id |
+| ![Jogos](https://github.com/user-attachments/assets/39d5ef6f-2621-4f16-bb6e-fa1a3fc62f2a)) | **jogos**: id_jogo, adversario. data_jogo, local | 
+| ![Torcedores](https://github.com/user-attachments/assets/e60ad3e6-1f45-4c47-9e28-25d8fbacbcd7) ) | **torcedores**: id_torcedor, nome, email, setor, jogo_id |
 
 
 
