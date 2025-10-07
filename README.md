@@ -35,8 +35,21 @@ O sistema permite o **cadastro, listagem, edição e exclusão ** de jogos e tor
 
 ---
 
+
 ## 🗄️ Modelo Lógico do Banco de Dados
 <img width="753" height="291" alt="image" src="https://github.com/user-attachments/assets/4f64f20a-e8fd-4aaf-bcd6-9a7570315a8e" />
+
+### Tabelas
+- **jogos**(id_jogo, adversario, data_jogo, local)
+- **torcedores**(id_torcedor, nome, email, setor, jogo_id)
+
+
+
+
+
+
+
+
 
 
 
