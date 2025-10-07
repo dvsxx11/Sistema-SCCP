@@ -28,11 +28,10 @@ O sistema permite o **cadastro, listagem, edição e exclusão (CRUD)** de jogos
 ## 🖼️ Prints das Telas
 | Tela | Descrição |
 |------|------------|
-| ![Dashboard](https://drive.google.com/file/d/1wQFmQTDhHn7W5djgxl9dVUjfTNpFBUIy/view?usp=sharing) | Página inicial com resumo de informações | 
-| ![Jogos](https://drive.google.com/file/d/1n1tdAPqy5oWW4XDBn82YpaR96_eohKyD/view?usp=sharing) | Cadastro de Jogos |
-| ![Torcedores](https://drive.google.com/file/d/1JC_o-kNdriZ1LXEHQNFJ6u9nP51cIyJE/view?usp=sharing) | Cadastro de torcedores |
-| ![Inscrições](https://drive.google.com/file/d/1Fj9QeFbnMFgkV-v-E-4S95qH553lCyyE/view?usp=sharing) | Gerenciamento de inscrições |
-![Jogos](https://github.com/user-attachments/assets/2db148c8-e574-49b6-a93b-27861bd184ce)
+| ![Dashboard](https://github.com/user-attachments/assets/8b464a93-ff91-480f-a8fe-3697779c3c6c) | **Dashboard**: Página inicial com resumo de informações | 
+| ![Jogos](https://github.com/user-attachments/assets/97cfc9af-70e1-462f-a067-72fb6a989acf) | **Jogos**: Cadastro de Jogos |
+| ![Torcedores](https://github.com/user-attachments/assets/e49052a9-bbcf-4b9b-b78d-3d1b3b5e64a1) | **Torcedores**: Cadastro de torcedores |
+| ![Inscrições](https://github.com/user-attachments/assets/a936838d-2817-4ef9-8ce4-a85bc5dddd2e) | **Inscrições**: Gerenciamento de inscrições |
 
 ---
 
