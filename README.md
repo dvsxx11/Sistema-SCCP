@@ -36,6 +36,7 @@ O sistema permite o **cadastro, listagem, edição e exclusão (CRUD)** de jogos
 ---
 
 ## 🗄️ Modelo Lógico do Banco de Dados
+<img width="753" height="291" alt="image" src="https://github.com/user-attachments/assets/4f64f20a-e8fd-4aaf-bcd6-9a7570315a8e" />
 
 
 
