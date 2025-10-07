@@ -40,8 +40,10 @@ O sistema permite o **cadastro, listagem, edição e exclusão ** de jogos e tor
 <img width="753" height="291" alt="image" src="https://github.com/user-attachments/assets/4f64f20a-e8fd-4aaf-bcd6-9a7570315a8e" />
 
 ### Tabelas
-- **jogos**(id_jogo, adversario, data_jogo, local)
-- **torcedores**(id_torcedor, nome, email, setor, jogo_id)
+| Tabelas | Colunas |
+|------|------------|
+| ![jogos](<img width="1160" height="401" alt="jogos" src="https://github.com/user-attachments/assets/9aca011f-dd08-4372-bd3b-fc78c71b2faa" /> ) | **jogos**: id_jogo, adversario. data_jogo, local | 
+| ![torcedores](<img width="1150" height="420" alt="torcedores" src="https://github.com/user-attachments/assets/a39af467-9b24-4cb3-b477-cd06c856cf5e" /> ) | **torcedores**: id_torcedor, nome, email, setor, jogo_id |
 
 
 
